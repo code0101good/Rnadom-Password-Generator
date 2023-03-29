@@ -1,0 +1,7 @@
+building a random passwrod generator.
+
+first import string and random
+
+then create 3 list for alphabets, numbers & symbols. try not to tyoe the whole thing.
+After the let 3 elements be picked randomly from the each of them and print them seperately.
+add the 'join()' method to get the whole output concatinated into one passwrod
